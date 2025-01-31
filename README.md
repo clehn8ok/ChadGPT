@@ -20,7 +20,7 @@ This guide provides step-by-step instructions on how to set up the Arduino IDE f
 
 ## Requirements
 - Digispark ATtiny85 board
-- USB connection (with appropriate drivers installed)
+- USB connection (with appropriate drivers installed) --> make sure you use a DATA micro USB cable, most of them only charge, you need to try different ones, if it doesnt work.
 - Arduino IDE (latest version)
 - Internet connection for downloading required software (alternative manual methods provided)
 
@@ -33,5 +33,3 @@ This guide provides step-by-step instructions on how to set up the Arduino IDE f
 
 For any issues, refer to the troubleshooting notes included in the full guide.
 
-## Author
-LeHa Design - [www.lehadesign.at](https://www.lehadesign.at)
